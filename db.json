@@ -1,0 +1,133 @@
+{
+  "users": [
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "5ec04863-e715-480a-806e-dcc8ba697f26",
+      "id": "hQAd3TuLvMo"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "36b3ea50-8a28-44fd-aafe-6c7712c47db4",
+      "id": "ZYUWoEYliIw"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "ae493b71-073d-4f56-befa-f7d3981e0026",
+      "id": "pJXHHFHlrDs"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "aeff189d-e1a6-4526-b2ec-e904bbba0d22",
+      "id": "9gFm_miICFM"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "74ea4a20-abf0-4365-8451-22d426336fd6",
+      "id": "iKt3b1VKBzU"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "48a79b31-dcb8-44ff-a39d-764b8d0a9c0a",
+      "id": "CNyoRfXjwXM"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "923f3bb4-4e1a-4c38-86e7-17fe12965acf",
+      "id": "oEjPEX6PK9g"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "b962e1d8-52e2-415c-b742-17214c4de12a",
+      "id": "Q-hlMRWnjPA"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "ff617581-d630-46af-b632-b66765ee27ed",
+      "id": "R8i5fZC8EAw"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "073dd086-6036-4e64-9d3b-13b1fa1deaf2",
+      "id": "jzbE05kvDY4"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "73f94a7d-d7a7-43cc-85dc-6ce0194afaaf",
+      "id": "ourcSmTvKUQ"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "b6b27482-4c82-4406-b97d-830369b050c6",
+      "id": "rapcHl22EZ4"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "476d6f26-b120-45a3-8392-3559e7419597",
+      "id": "qOiwgAfkwLs"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "1de790bd-3431-4831-9de9-4af9bfcf2664",
+      "id": "FcO-AB_FFsA"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "395141a6-c33e-409f-a7a5-745cb5baa260",
+      "id": "unAWN2KXNzI"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "e27f1800-8071-4796-8d56-bf14b0a049d1",
+      "id": "sVm4ftzHEMc"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "86e989f8-24fc-484c-9250-b10aec111842",
+      "id": "oHogK0a1xqA"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "422ecd74-2751-4ac6-8891-f867727374e1",
+      "id": "mh44JfvWMF0"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "0891ed08-c0a0-4a64-a312-b370b6043118",
+      "id": "fgbZcckziz8"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "37ca7db9-b6f6-4d90-a7b8-dfa75704e95d",
+      "id": "JAJQ0QN40PM"
+    },
+    {
+      "email": "max@gmail.com",
+      "password": "Maxy@123",
+      "userId": "7e6de928-3dbf-46de-bba1-cec50c31b68d",
+      "id": "WrX-VMM1RtU"
+    }
+  ],
+  "transaction": [],
+  "edit-profile": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
